@@ -8783,19 +8783,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/fooman/googleanalyticsplus.git",
-                    "reference": "ee2d9f68eb0b0b5f34c5a0bac50bfece89d952f1"
+                    "reference": "59193b9c1edcc3575d72394f7b8f8df764569215"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/fooman/googleanalyticsplus/zipball/ee2d9f68eb0b0b5f34c5a0bac50bfece89d952f1",
-                    "reference": "ee2d9f68eb0b0b5f34c5a0bac50bfece89d952f1",
+                    "url": "https://api.github.com/repos/fooman/googleanalyticsplus/zipball/59193b9c1edcc3575d72394f7b8f8df764569215",
+                    "reference": "59193b9c1edcc3575d72394f7b8f8df764569215",
                     "shasum": ""
                 },
                 "require": {
                     "fooman/common": "*",
                     "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2016-09-13 23:22:09",
+                "time": "2016-12-07 20:35:17",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -8829,7 +8829,7 @@
                 "description": "Additional features for the default GoogleAnalytics module.",
                 "homepage": "https://github.com/fooman/googleanalyticsplus",
                 "support": {
-                    "source": "https://github.com/fooman/googleanalyticsplus/tree/v0.17.0",
+                    "source": "https://github.com/fooman/googleanalyticsplus/tree/master",
                     "issues": "https://github.com/fooman/googleanalyticsplus/issues"
                 }
             }
